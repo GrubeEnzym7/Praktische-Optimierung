@@ -1,6 +1,5 @@
 import numpy as np #line:1
 def kompasssuche_test (O000OOO0000000O0O ,OO00O00O0000O0OO0 :np .ndarray ,OO00OOO0OOOO0O000 :float ,O00O000000OOO000O :float)->int :#line:3	  
-    x,y=x0
     """Kompasssuche algorithm to find the minimum of a function.
     Stops when the expected minimum of 0.0 is reached with a tolerance of 0.001.
     
